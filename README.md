@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neslihan-özdil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neslihan-özdil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neslihan-özdil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neslihan-özdil-3231831b5/" height="30" width="40" /></a>
 <a href="https://instagram.com/nesli.ozdil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nesli.ozdil" height="30" width="40" /></a>
 <a href="https://medium.com/@nesli.ozdil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nesli.ozdil" height="30" width="40" /></a>
 </p>
